@@ -1,10 +1,10 @@
 # DeathCounter
 
-##使い方
+## 使い方
 死んだら自動で追加してくれます。
 
 ## Author
-初めてのPluginなのでコード汚いです
+初めてのPluginなのでコード汚いです　　
 [Twitter](https://twitter.com/R2121KUNKUN)
 
 ## Licence
