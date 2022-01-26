@@ -1,0 +1,7 @@
+name: DeathCounter
+version: '${project.version}'
+main: net.kunkun2121.deathcounter.deathcounter.DeathCounter
+api-version: 1.18
+authors: [ kunkun2121 ]
+description: First Plugin
+website: www.kunkun2121.net
