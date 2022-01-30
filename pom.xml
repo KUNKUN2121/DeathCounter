@@ -11,12 +11,10 @@
 
     <name>DeathCounter</name>
 
-    <description>First Plugin</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <url>www.kunkun2121.net</url>
 
     <build>
         <plugins>
